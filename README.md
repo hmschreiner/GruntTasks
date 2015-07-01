@@ -18,5 +18,5 @@ grunt -v
 
 Make sure that you have installed the Node Package Manager (npm) and Grunt Task Runner too.
 
-To install Node: https://docs.npmjs.com/getting-started/installing-node
+To install Node: https://docs.npmjs.com/getting-started/installing-node<br>
 To install Grunt Client: http://gruntjs.com/getting-started
