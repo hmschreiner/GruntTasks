@@ -1,6 +1,6 @@
 /**
  * Simple Grunt task to files minification
- * /
+ */
 module.exports = function (grunt) {
 
     // Folder to minified files
